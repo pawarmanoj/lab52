@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: |
-    cat myhelloworld
+    type myhelloworld
   displayName: 'Read and display contents of a file from github'
